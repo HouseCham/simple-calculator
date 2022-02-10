@@ -1,0 +1,16 @@
+.historyListView{
+	-fx-background-color:  linear-gradient(to right bottom, #f88d68, #f97978, #f1698d, #de60a5, #be60bb);
+}
+
+.table-row-cell:empty {
+    -fx-background-color: khaki;
+    -fx-border-color: grey
+}
+
+.table-row-cell:hover{
+    -fx-background-color: blanchedalmond;
+}
+
+.table-row-cell:selected{
+    -fx-background-color: chocolate;
+}
